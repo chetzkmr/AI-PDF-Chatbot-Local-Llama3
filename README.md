@@ -22,16 +22,16 @@ This project demonstrates real-world implementation of:
 Add screenshots below this section:
 
 ### 💬 Chat Interface
-![Chat UI](screenshots/chat-ui.png)
+![Chat UI](screenshots/ui.png)
 
 ### 📂 PDF Upload & Processing
-![Upload](screenshots/upload.png)
+![Upload](screenshots/processing.png)
 
 ### 📚 Context-Aware Answers
-![Answer](screenshots/answer.png)
+![Answer](screenshots/full_chat.png)
 
 ### 💾 Conversation Export
-![Export](screenshots/export.png)
+![Export](screenshots/downloaded_txt.png)
 
 ---
 
